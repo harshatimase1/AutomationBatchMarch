@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T09:58:28 IST" name="Suite" finished-at="2024-07-11T09:59:07 IST" duration-ms="38804">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T09:58:28 IST" name="Test" finished-at="2024-07-11T09:59:07 IST" duration-ms="38804">
+      <class name="project1.snapdeal">
+        <test-method signature="MensFashion()[pri:1, instance:project1.snapdeal@1189dd52]" started-at="2024-07-11T09:58:54 IST" name="MensFashion" finished-at="2024-07-11T09:58:57 IST" duration-ms="2263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MensFashion -->
+        <test-method signature="WomensFashion()[pri:2, instance:project1.snapdeal@1189dd52]" started-at="2024-07-11T09:58:57 IST" name="WomensFashion" finished-at="2024-07-11T09:58:59 IST" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WomensFashion -->
+        <test-method signature="HK()[pri:3, instance:project1.snapdeal@1189dd52]" started-at="2024-07-11T09:58:59 IST" name="HK" finished-at="2024-07-11T09:59:02 IST" duration-ms="2201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HK -->
+        <test-method signature="Toys()[pri:4, instance:project1.snapdeal@1189dd52]" started-at="2024-07-11T09:59:02 IST" name="Toys" finished-at="2024-07-11T09:59:04 IST" duration-ms="2187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Toys -->
+        <test-method signature="Beauty()[pri:5, instance:project1.snapdeal@1189dd52]" started-at="2024-07-11T09:59:04 IST" name="Beauty" finished-at="2024-07-11T09:59:07 IST" duration-ms="2186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beauty -->
+      </class> <!-- project1.snapdeal -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
